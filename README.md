@@ -1,5 +1,5 @@
 # NN_backpropagating_errors
-A neural network generated using the backpropagating errors algorithm able to predict the first resonance frequency of a beam
+A Neural Network generated using the backpropagating errors algorithm able to predict the first resonance frequency of a beam
 
 # Introduction and motivation
 This project has been created to understand more deeply the backpropagating errors algorithm formulated by Goeffrey Hinton in his famous 1986 paper "Learning representation by back-propagating errors" for the creation of a Neural Network.
