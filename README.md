@@ -12,8 +12,10 @@ Most of the project can be readapted to build a neural network to predict other 
 # Inputs
 In train.py:
 - epochs iterations for training
+- learning rate
 - number of training samples
 - range of values of training parameters
+- number of nodes per each layer
 
 In predict.py
 - beam geometry
@@ -27,3 +29,6 @@ In predict.py
 # How to use
 1. Run train.py
 2. Run predict.py
+
+# Note
+Relu activation function is used.
